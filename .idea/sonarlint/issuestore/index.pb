@@ -13,3 +13,5 @@ L
 .gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
 T
 $contracts/quality-certification.clar,e/7/e7f9bb22d7b3c78780a97a3195672657ab8d9843
+S
+#tests/quality-certification.test.ts,c/7/c7a0030399686d37afac768bc11bba7223217780
