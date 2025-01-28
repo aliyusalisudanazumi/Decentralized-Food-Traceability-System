@@ -11,3 +11,5 @@ L
 tests/product-origin.test.ts,a/1/a1639faf0449c61003049ad7ef7e3c0396b74ad8
 >
 .gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
+T
+$contracts/quality-certification.clar,e/7/e7f9bb22d7b3c78780a97a3195672657ab8d9843
